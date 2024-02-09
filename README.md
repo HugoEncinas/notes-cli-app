@@ -25,7 +25,7 @@ To install the CLI note-taking application, you need to follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/HugoEncinas/notes-cli-app.git
    ```
 
 2. **Navigate to the Project Directory**: Change into the directory of the cloned repository:
